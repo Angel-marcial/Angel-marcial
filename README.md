@@ -1,10 +1,7 @@
 ###  HOLA👋
-
 ### Mi Nombre es Angel Geovanni Marcial Morales y soy ingeniero en software  
-<!--
-**Angel-marcial/Angel-marcial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Me especializo en la programación orientada a objetos e interfaces con java 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

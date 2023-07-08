@@ -1,6 +1,9 @@
 ##  HOLA👋
 ## Mi Nombre es Angel Geovanni Marcial Morales y soy ingeniero en software  
 
+![VISION E INTELIGENCIA ARTIFICIAL](https://user-images.githubusercontent.com/85022752/160804979-92ae839c-de73-4618-9b5a-05445f50b691.png)
+
+
 Me especializo en la programación orientada a objetos e interfaces con java.
 
 ## 🔸 Actualmente desarrollo:

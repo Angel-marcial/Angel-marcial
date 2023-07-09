@@ -12,7 +12,7 @@ Me especializo en la programación orientada a objetos e interfaces con java.
 - 🔹Toma de requerimientos.
 - 🔹Administración de proyectos.
 
-![VISION E INTELIGENCIA ARTIFICIAL](https://github.com/Angel-marcial/Angel-marcial/blob/main/auto001.jpg)
+![IMAGEN DE PRESENTACION](https://github.com/Angel-marcial/Angel-marcial/blob/main/auto001.jpg)
 
 
 ## 🔸 Habilidades:

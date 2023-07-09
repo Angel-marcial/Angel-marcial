@@ -1,6 +1,5 @@
 ## HOLA👋
 ## Soy ingeniero en software 
-## Me llamo Angel Geovanni Marcial Morales 
 
 Me especializo en la programación orientada a objetos e interfaces con java. 
 

@@ -1,6 +1,8 @@
 ## HOLA👋
 ## Soy ingeniero en software 
 
+![IMAGEN DE PRESENTACION](https://github.com/Angel-marcial/Angel-marcial/blob/main/EdPan%20studio.png)
+
 Me especializo en la programación orientada a objetos e interfaces con java. 
 
 ## 🔸 Actualmente desarrollo:

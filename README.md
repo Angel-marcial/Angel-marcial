@@ -6,7 +6,7 @@
 Me especializo en la programación orientada a objetos e interfaces con java. 
 
 ## 🔸 Actualmente desarrollo:
-- 🔹Algoritmos orientado a objetos con java.
+- 🔹Algoritmos orientados a objetos con java.
 - 🔹Algoritmos de visión artificial en Python con opencv.
 - 🔹Paginas web con php java script y css.
 - 🔹Conexión a bases de datos

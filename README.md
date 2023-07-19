@@ -1,7 +1,7 @@
 ## HOLA👋
 ![tarjeta](https://github.com/Angel-marcial/Angel-marcial/blob/main/Tarjeta.png)  
 
-#Mi área de especialización se centra en la programación orientada a objetos e interfaces utilizando Java 
+# Mi área de especialización se centra en la programación orientada a objetos e interfaces utilizando Java 
 
 ## 🔸 Actualmente desarrollo:
 - 🔹Algoritmos orientados a objetos con java.

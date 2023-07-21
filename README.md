@@ -4,11 +4,11 @@
 # Mi área de especialización se centra en la programación orientada a objetos e interfaces utilizando Java 
 
 ## 🔸 Actualmente desarrollo:
-- 🔹experiencia en el diseño de interfaces utilizando Figma. 
+- 🔹Interfaces utilizando Figma. 
 - 🔹Algoritmos orientados a objetos con java.
 - 🔹Algoritmos de visión artificial en Python con opencv.
 - 🔹Paginas web con php java script y css.
-- 🔹Conexión a bases de datos
+- 🔹Manejo de bases de datos
 - 🔹Sistemas con Arduino 1  
 - 🔹Toma de requerimientos.
 - 🔹Administración de proyectos.

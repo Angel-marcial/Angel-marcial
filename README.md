@@ -3,8 +3,8 @@
 
 # Mi área de especialización se centra en la programación y administracion de proyectos. 
 
-##🟠 Actualmente desarrollo:
-###🔴 programación java.
+## 🟠 Actualmente desarrollo:
+### 🔴 programación java.
 
 - 🔵Algoritmos orientados a objetos.
 - 🔹desarollo de aplicaciones moviles

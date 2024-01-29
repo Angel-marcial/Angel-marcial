@@ -12,7 +12,7 @@
 ### 🔴 Programación python.
   
 - 🔵Algoritmos de visión artificial con OpenCV.
-- 🔵Desarrollo de juegos con pygame.
+- 🔵Desarrollo de juegos con Pygame.
 - 🔵Análisis de datos con Pandas.
 
 ### 🔴 Programación C++.
@@ -25,16 +25,22 @@
 - 🔵Formularios con HTML y JavaScript.
 - 🔵Implementación de servidores con PHP.
 
+### 🔴 Base de Datos.
 
+🔵 Creación de bases de datos.
+🔵 Diseño de diagramas entidad-relación.
+🔵 Normalización de tablas.
 
+### 🔴 Desarrollo de Mockups.
 
-- 🔹Interfaces utilizando Figma. 
+- 🔵 Figma.
+- 🔵 Canva. 
 
+### 🔴 Administración de Proyectos.
 
-- 🔹Manejo de bases de datos
- 
-- 🔹Toma de requerimientos.
-- 🔹Administración de proyectos.
+- 🔵 Toma de requerimientos.
+- 🔵 Diseño de diagramas UML.
+   
 
 ## 💻 Habilidades:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 

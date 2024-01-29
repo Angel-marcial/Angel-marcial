@@ -3,7 +3,7 @@
 
 # Mi área de especialización se centra en la programación y administracion de proyectos. 
 
-## 🔸 Actualmente desarrollo:
+## 🔴 Actualmente desarrollo:
 ### -- programación java.
 
 - 🔹Algoritmos orientados a objetos.
@@ -11,7 +11,9 @@
 
 ### -- programación python.
   
-- 🔹Algoritmos de visión artificial en Python con opencv.
+- 🔹Algoritmos de visión artificial con OpenCV.
+- 🔹Desarrollo de juegos con pygame.
+- 🔹Análisis de datos con Pandas
 
 - 🔹Interfaces utilizando Figma. 
 

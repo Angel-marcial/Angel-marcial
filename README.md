@@ -87,11 +87,6 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Angel-marcial&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-marcial&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ## 🌐 Contactame:
 - pendiente1
 - pendiente2

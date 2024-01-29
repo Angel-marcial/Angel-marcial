@@ -31,7 +31,7 @@
  - 🔵 Diseño de diagramas entidad-relación.
  - 🔵 Normalización de tablas.
 
-### 🔴 Analisís de Datos.
+### 🔴 Análisis de Datos.
 
  - 🔵 Software weka.
  - 🔵 software Orange.
@@ -73,7 +73,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) 
 
-### Analisís de datos. 
+### Análisis de datos. 
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 

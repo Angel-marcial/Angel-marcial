@@ -1,7 +1,7 @@
 ## HOLA👋
 ![tarjeta](https://github.com/Angel-marcial/Angel-marcial/blob/main/Tarjeta.png)  
 
-# Mi área de especialización se centra en la programación y administraciond de proyectos. 
+# Mi área de especialización se centra en la programación y administracion de proyectos. 
 
 ## 🔸 Actualmente desarrollo:
 - 🔹Interfaces utilizando Figma. 

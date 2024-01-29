@@ -27,9 +27,9 @@
 
 ### 🔴 Base de Datos.
 
-🔵 Creación de bases de datos.
-🔵 Diseño de diagramas entidad-relación.
-🔵 Normalización de tablas.
+ - 🔵 Creación de bases de datos.
+ - 🔵 Diseño de diagramas entidad-relación.
+ - 🔵 Normalización de tablas.
 
 ### 🔴 Desarrollo de Mockups.
 

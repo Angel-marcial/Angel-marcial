@@ -4,6 +4,10 @@
 # Mi área de especialización se centra en la programación y administracion de proyectos. 
 
 ## 🔸 Actualmente desarrollo:
+
+  ### hola 
+
+
 - 🔹Interfaces utilizando Figma. 
 - 🔹Algoritmos orientados a objetos con java.
 - 🔹desarollo de aplicaciones moviles 

@@ -4,22 +4,35 @@
 # Mi área de especialización se centra en la programación y administracion de proyectos. 
 
 ## 🟠 Actualmente desarrollo:
-### 🔴 programación java.
+### 🔴 Programación java.
 
 - 🔵Algoritmos orientados a objetos.
-- 🔹desarollo de aplicaciones moviles
+- 🔵Desarrollo de aplicaciones móviles.
 
-### -- programación python.
+### 🔴 Programación python.
   
-- 🔹Algoritmos de visión artificial con OpenCV.
-- 🔹Desarrollo de juegos con pygame.
-- 🔹Análisis de datos con Pandas
+- 🔵Algoritmos de visión artificial con OpenCV.
+- 🔵Desarrollo de juegos con pygame.
+- 🔵Análisis de datos con Pandas.
+
+### 🔴 Programación C++.
+
+- 🔵Software embebido.
+
+### 🔴 Programación Web.
+
+- 🔵Desarrollo de interfaz con CSS.
+- 🔵Formularios con HTML y JavaScript.
+- 🔵Implementación de servidores con PHP.
+
+
+
 
 - 🔹Interfaces utilizando Figma. 
 
-- 🔹Paginas web con php java script y css.
+
 - 🔹Manejo de bases de datos
-- 🔹Sistemas con Arduino 1  
+ 
 - 🔹Toma de requerimientos.
 - 🔹Administración de proyectos.
 
